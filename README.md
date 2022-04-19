@@ -1,6 +1,6 @@
 # JAV1001-Contacts
 
-## Versions
+## Version
 Version 1.0
 
 ## Contributors
