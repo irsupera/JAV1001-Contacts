@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:padding="20dp"
+    tools:layout_editor_absoluteX="1dp"
+    tools:layout_editor_absoluteY="1dp">
+
+    <TextView
+        android:id="@+id/txv_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="About App"
+        android:textSize="25dp"
+        android:gravity="center"/>
+
+    <TextView
+        android:id="@+id/txv_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This app allows the user to create contacts with name, mobile and email details and save to shared preference."
+        android:textSize="15dp"
+        android:layout_margin="10dp"/>
+
+    <TextView
+        android:id="@+id/txv_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="* To Add, click the + floating button"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <TextView
+        android:id="@+id/txv_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="* To Update, click the item to change"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+    <TextView
+        android:id="@+id/txv_about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="* To Delete, long click the item to remove"
+        android:textSize="15dp"
+        android:paddingBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+</LinearLayout>
