@@ -28,18 +28,16 @@ app:cardCornerRadius="8dp">
         android:layout_toRightOf="@id/image"
         android:padding="5dp"
         android:text="Name"
-        android:textColor="@color/black"
         android:textSize="20dp" />
 
     <TextView
         android:id="@+id/txv_label_mobile"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/image"
         android:layout_below="@id/txv_name"
+        android:layout_toRightOf="@id/image"
         android:padding="3dp"
         android:text="Mobile"
-        android:textColor="@color/black"
         android:textSize="12dp" />
 
     <TextView
@@ -50,18 +48,16 @@ app:cardCornerRadius="8dp">
         android:layout_toRightOf="@id/txv_label_mobile"
         android:padding="3dp"
         android:text="Mobile number"
-        android:textColor="@color/black"
         android:textSize="12dp" />
 
     <TextView
         android:id="@+id/txv_label_email"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_toRightOf="@id/image"
         android:layout_below="@id/txv_mobile"
+        android:layout_toRightOf="@id/image"
         android:padding="5dp"
         android:text="Email"
-        android:textColor="@color/black"
         android:textSize="12dp" />
 
     <TextView
@@ -72,7 +68,6 @@ app:cardCornerRadius="8dp">
         android:layout_toRightOf="@id/txv_label_email"
         android:padding="5dp"
         android:text="Email address"
-        android:textColor="@color/black"
         android:textSize="12dp" />
 
 </RelativeLayout>

@@ -11,8 +11,7 @@
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_contacts"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_below="@id/edt_email" />
+        android:layout_height="match_parent" />
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/btn_dialog"
@@ -24,6 +23,7 @@
         android:layout_marginTop="10dp"
         android:layout_marginEnd="10dp"
         android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/orange_500"
         android:src="@drawable/ic_baseline_add_24" />
 
 </RelativeLayout>
