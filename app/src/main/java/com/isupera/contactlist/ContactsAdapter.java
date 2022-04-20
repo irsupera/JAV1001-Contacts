@@ -1,4 +1,8 @@
+//JAV-1001
+//Iricher B Supera
+//A00237146
 package com.isupera.contactlist;
+
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.Context;

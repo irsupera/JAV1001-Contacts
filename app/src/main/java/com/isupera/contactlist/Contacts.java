@@ -1,3 +1,6 @@
+//JAV-1001
+//Iricher B Supera
+//A00237146
 package com.isupera.contactlist;
 
 public class Contacts {

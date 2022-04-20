@@ -1,5 +1,7 @@
+//JAV-1001
+//Iricher B Supera
+//A00237146
 package com.isupera.contactlist;
-
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
